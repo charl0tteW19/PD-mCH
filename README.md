@@ -14,6 +14,7 @@ The scripts are written to assume a local directory structure (detailed below).
 Local Directory Architecture
 To run these scripts locally, your workspace should be set up as follows:
 
+```text
 PD-mCH/
 ├── data/
 │   ├── METICULOUS_MAP_FINAL.csv             # Coordinate lookup map
